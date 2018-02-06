@@ -2,6 +2,7 @@ package com.objectboxkotlintest
 
 import android.app.Application
 import android.util.Log
+import com.objectboxkotlintest.models.MyObjectBox
 import io.objectbox.BoxStore
 import io.objectbox.android.AndroidObjectBrowser
 
